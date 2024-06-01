@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Environment configuration
+config.env
+
+# Prettier configuration
+.prettierrc
+
+# ESLint configuration
+eslintrc.json
+
+# VS Code settings
+.vscode/
